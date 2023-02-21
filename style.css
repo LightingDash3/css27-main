@@ -1,0 +1,85 @@
+article {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid rgb(3, 245, 237);
+}
+
+.position-sticky {
+   position: sticky;
+    margin: 25px;
+}
+
+.position-absolute  {
+position: absolute;
+}
+
+ .style-me1 {
+    color: rgb(191, 5, 247);
+}
+
+#style-me2 {
+    color: rgb(191, 5, 247);
+}
+
+.my-descendants-are-styled {
+    background-color: red;
+}
+.my-children-are-styled {
+    background-color: red;
+}
+.box {
+    box-sizing: 10px;
+    border: 10px;
+    padding: 30px;
+    margin: 20px;
+    border: 35px;
+    width: 50vw;
+    height: 60vh;
+    border-radius: 20px;
+    background-image: url(kitten.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  
+}
+
+.text-style{
+    color: rgb(19, 213, 5);
+    font-family:'Gajraj One', cursive;
+    font-size: larger;
+    line-height: 50px;
+    font-weight: 800;
+    text-align: justify;
+    letter-spacing: 0.1px;
+    word-spacing: 10px;
+    text-transform: capitalize ;
+    text-decoration: none;
+
+}
+
+a, a:link, a:visited{
+    color: green;
+    font-size: ;
+    font-weight: ;
+    font-family: ;
+    font-style: italic;
+}
+
+a:hover, :active, a:focus{
+    color: yellow;
+font-size: ;
+font-weight: ;
+font-family: ;
+font-style: italic;
+
+}
+
+.calc-style{
+    width: calc(100vw-100px);
+}
+
+
+
+
+
+
